@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/capacityassignusabilitytestA.html" },
+    { "source": "/(.*)", "destination": "/capacityassignusabilitytestA.html" }
+  ]
+}
